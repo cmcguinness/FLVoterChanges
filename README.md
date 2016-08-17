@@ -18,4 +18,14 @@ open in Excel without any issues.
 
 The column titles are generally self-describing.  At some point
 I may document the precise meaning of them; in the mean time,
-if you look at the AddSub program you can see how the data is generated
+if you look at the 
+[AddSub program](https://github.com/cmcguinness/AddSub)
+ you can see how the data is generated
+
+## Related Information
+
+Every month I update a large google sheet with the data along with
+interesting (to me, at least) analyses of the data.
+
+You can see it at
+[Florida Voter Rolls](https://docs.google.com/spreadsheets/d/1uFYWLCcEVZaTszYJLssrG-2QjktcJtFT1TFuZj0vtmY/edit?usp=sharing).
